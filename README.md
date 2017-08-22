@@ -1,5 +1,7 @@
 # Volunteers for Game of Codes 2017
 
+![Game of Codes Poster] (/TuringF poster_1.jpg)
+
 ### Tentative dates: 29-30th September
 
 * <b>Marketing:</b> Sanskruti Sharma, Kashish Dusad
