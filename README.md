@@ -1,6 +1,6 @@
 # Volunteers for Game of Codes 2017
 
-![Poster](https://github.com/TuringFraternity/GOC_Volunteers/blob/master/TuringF%20poster_1.jpg)
+![Hosted by The Turing Fraternity](https://github.com/TuringFraternity/GOC_Volunteers/blob/master/TuringF%20poster_1.jpg)
 
 ### Tentative dates: 29-30th September
 
