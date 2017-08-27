@@ -1,6 +1,6 @@
 # Volunteers for Game of Codes 2017
 
-![Hosted by The Turing Fraternity](http://imgur.com/a/zBnvK)
+![Hosted by The Turing Fraternity](http://imgur.com/2yUuCZA)
 
 ### Final dates: 29-30th September
 
