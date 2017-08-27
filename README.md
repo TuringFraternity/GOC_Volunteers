@@ -2,7 +2,7 @@
 
 ![Hosted by The Turing Fraternity](https://github.com/TuringFraternity/GOC_Volunteers/blob/master/TuringF%20poster_1.jpg)
 
-### Tentative dates: 29-30th September
+### Final dates: 29-30th September
 
 * <b>Marketing:</b> Sanskruti Sharma, Kashish Dusad
 * <b> Media:</b> Ananya Jain, Jhanvi Koolwal, Ribhav Kala
